@@ -2,15 +2,11 @@
 
 # HTML <i class="fa-brands fa-html5"></i> and CSS <i class="fa-brands fa-css3-alt"></i> practice
 
-<div style="font-size: 10px;">
-
-> - ## Used Flexbox
-> - ## Used Css Grid
-> - ## Used Semantic HTML
-> - ## Exercised positioning
-> - ## Exercised responsiveness
-
-</div>
+> - #### Used Flexbox
+> - #### Used Css Grid
+> - #### Used Semantic HTML
+> - #### Exercised positioning
+> - #### Exercised responsiveness
 
 # Project Result
 ---
